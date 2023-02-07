@@ -4,7 +4,7 @@ import { NavLink } from 'react-router-dom';
 export const Home = () => {
   return (
     <>
-        <h1>Aplicación de consulta de tareas</h1>
+        <h1>Aplicación de prueba para consulta de tareas</h1>
         <hr />
         <h2>Tipos de tareas</h2>
         <ul >
